@@ -1,1 +1,2 @@
 Activate venv: angel\Scripts\activate
+Repo: https://github.com/productivitycrab/local.git

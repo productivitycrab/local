@@ -24,3 +24,11 @@ class Reminder(models.Model):
     )
 
     reminder_date = models.DateField(null=True)
+
+    # def generate_reminders():
+
+    # def sync_reminders(): 
+
+    # def snooze_reminder():
+
+
